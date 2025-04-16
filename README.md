@@ -1,5 +1,6 @@
-- 👋 Hello there! I’m Dmitrii, a web developer
-- 🌱 I code in Python and JavaScript. I use FastAPI and Django for backend development and React for frontend development.
+- 👋 Hello there! I’m Dmitrii, a backend developer
+- ⚡ I code in Python, use FastAPI or Django. I also have expirience in frontend development on React (JavaScript)
+- 🌱 I’m currently learning: Kotlin (Spring)
 - 📫 How to reach me? You can write to me in [telegram](https://t.me/Positive_666)
 
 <!---
